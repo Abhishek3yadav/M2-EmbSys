@@ -17,8 +17,8 @@ CMOS sensors have high speed, low sensitivity, and high, fixed-pattern noise.
 
 ### JPEG CODEC   
 
--   The Photo JPEG codec implements the Joint  Photographic Experts Group.
-•	This codec is great for compressing high-resolution, photographic images, and is also very good for 8-bit grayscale images.
+ 1 The Photo JPEG codec implements the Joint  Photographic Experts Group.
+•	  This codec is great for compressing high-resolution, photographic images, and is also very good for 8-bit grayscale images.
 •	It works very well for "slide-show" movies that have a very low frame rate.
 •	It has some application for Web video, although other commercial codecs are often preferable for most movies.
 
