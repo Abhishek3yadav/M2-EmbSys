@@ -28,7 +28,9 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 *	Transistors  
 *	Diodes
 *	LED’s 
-*	Transformer/Adapter 
+*	Transformer/Adapter
+*	Load
+*	fan/bulb 
 
 ## Advantages:
  * save home energy consuption
