@@ -11,10 +11,6 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 * Sensor shall work accordingly
 * power supply shall not cut at any time
 
-
-# Block Diagram
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/98915922/155799005-5a974bc3-02fd-4e83-ad38-b1642e17c306.png">
-
 ## Strength
 * Very easy to use.
 * Quick installtion.
