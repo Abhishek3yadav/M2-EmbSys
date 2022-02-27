@@ -10,6 +10,7 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 # Low Level Requirements
 * Sensor shall work accordingly
 * power supply shall not cut at any time
+* load shall be 12 volt.
 
 ## Strength
 * Very easy to use.
