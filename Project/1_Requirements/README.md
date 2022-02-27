@@ -15,3 +15,30 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 # Block Diagram
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/98915922/155799005-5a974bc3-02fd-4e83-ad38-b1642e17c306.png">
 
+## Strength
+* Very easy to use.
+* Quick installtion.
+* Very Reliable.
+* Less maintaince.
+## Weakness
+* Lack of graphical user interface.
+* If the mcrocontroller gets reset the system will not work.
+* System is very sensitive we have to handle it with care.
+## Opportunity
+* Since now a days water usage is increasing so much it is very important to save the energy  wastage so this kind of systems are required.
+## Threats
+* More advance technology is there to overcome this issue.
+# 4W'S & 1H
+## WHY
+* To save energy consumption controller helps save money by limiting the waste of electricity.
+## WHO
+* Everyone can use this device as for their commercial aur domestic use.
+## WHEN
+* Whenerver the sensor  gets low/high it starts and stops according to the requirements.
+## WHAT
+* Results into less manual work which saves human time and energy.
+## HOW
+* By setting these devices as per the requiement in our home so as to save the loss of extra energy consuption 
+## Applications
+* It can be widely used for the household purposes to avoid the wastage of electricity through this small sensor device.
+*  A home automation system will provide energy savings by turning off lights when kids or adults forget to shut them off as they leave a room.
