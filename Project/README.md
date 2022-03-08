@@ -11,7 +11,9 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 * Sensor shall work according to the given range of the temperature.
 * power supply shall not cut at any time
 * load shall be 5 volt.
-* 
+# Block Diagram
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/98915922/155799005-5a974bc3-02fd-4e83-ad38-b1642e17c306.png">
+
 # SWOT ANALYSIS -
 
 ## Strength
@@ -41,12 +43,7 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 ## Applications
 * It can be widely used for the household purposes to avoid the wastage of electricity through this small sensor device.
 *  A home automation system will provide energy savings by turning off lights when kids or adults forget to shut them off as they leave a room.
-
-- 
-# Block Diagram
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/98915922/155799005-5a974bc3-02fd-4e83-ad38-b1642e17c306.png">
-
-## 
+ 
 # Components
 ## Hardware Specifications
 * Arduino
