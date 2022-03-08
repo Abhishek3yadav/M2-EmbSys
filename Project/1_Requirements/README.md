@@ -8,9 +8,11 @@ Home automation usage has been on a rise in the recent times. The aim of this pr
 - In case of fluctuating the voltage, In-build Inverter can control the voltage.
 
 # Low Level Requirements
-* Sensor shall work accordingly
+* Sensor shall work according to the given range of the temperature.
 * power supply shall not cut at any time
-* load shall be 12 volt.
+* load shall be 5 volt.
+* 
+# SWOT ANALYSIS -
 
 ## Strength
 * Very easy to use.
